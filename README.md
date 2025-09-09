@@ -16,7 +16,6 @@ This project allows users to share and track live locations on an interactive ma
 ## 🖼️ Screenshot
 ![App Screenshot](./screenshot.png)
 
-*(Place your screenshot image in the project root as `screenshot.png`, or replace with an online image link.)*
 
 ---
 
